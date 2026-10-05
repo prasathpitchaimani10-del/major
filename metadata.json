@@ -1,0 +1,6 @@
+{
+  "name": "Krono & Co. — Precision Retail Platform",
+  "description": "Full-stack e-commerce web application featuring multi-variant catalog management, server-validated checkout, multi-method payment abstraction, verified purchase reviews, and administrative operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
